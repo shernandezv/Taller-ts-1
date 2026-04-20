@@ -13,4 +13,3 @@ class Serie {
     }
 }
 exports.Serie = Serie;
-//# sourceMappingURL=serie.js.map
